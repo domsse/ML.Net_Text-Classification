@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TextKlassifizierung": {
+      "commandName": "Project",
+      "commandLineArgs": "F:\\.ML\\Projekte\\TextKlassifizierung\\TextKlassifizierung\\bin\\Debug\\net8.0\\Data\\yelpData_labelled.txt"
+    }
+  }
+}
