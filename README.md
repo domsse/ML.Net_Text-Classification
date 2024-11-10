@@ -3,6 +3,10 @@ Dies ist ein kleines Testprojekt einer .NET Konsolenapplikation, die dazu verwen
 
 Mithilfe von [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) wird beim ersten starten ein Model mit Daten erstellt und trainiert.
 
+## Englisch Readme
+This Readme was written in German. If you want to read the English Readme click on the link below. :)
+- [Englisch Readme](https://github.com/domsse/ML.Net_Text-Classification/blob/master/README_ENG.md)
+
 ## Was wird benötigt?
 - [![NuGet Status](https://img.shields.io/nuget/v/Microsoft.ML.svg?style=flat)](https://www.nuget.org/packages/Microsoft.ML/)
 - [.NET Core 8](https://www.microsoft.com/net/learn/get-started)
