@@ -20,8 +20,10 @@ This Readme was written in German. If you want to read the English Readme click 
 
 ## Trainingsdaten
 ```
-Die für dieses Projekt verwendete Dataset stammt aus „From Group to Individual Labels using Deep Features“,
-Kotzias et. al. KDD 2015, und werden im UCI Machine Learning Repository – Dua, D. und Karra Taniskidou, E. gehostet. (2017).
+Die für dieses Projekt verwendete Dataset stammt aus
+„From Group to Individual Labels using Deep Features“,
+Kotzias et. al. KDD 2015, und werden im UCI Machine Learning Repository
+– Dua, D. und Karra Taniskidou, E. gehostet. (2017).
 UCI Machine Learning Repository [http://archive.ics.uci.edu/ml ].
 Irvine, CA: University of California, School of Information and Computer Science.
 ```
