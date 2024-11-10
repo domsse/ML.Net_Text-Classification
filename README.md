@@ -19,6 +19,11 @@ This Readme was written in German. If you want to read the English Readme click 
 5. Anschließend wird jedesmal angezeigt ob die Eingabe positiv oder negativ ist, einschließlich dem erreichten Score.
 
 ## Trainingsdaten
+- Die Daten wurden von mir mittels Google-Übersetzer in der deutschen Sprache übersetzt.
+- Jede Bewertung wird mit 1 oder 0 klassifiziert. (1 = Positiv, 0 = Negativ)
+- Die Bewertung und die Klassifizierung sind mit einem TAB separiert.
+
+(Fühlen sie sich frei eigene Daten zu verwenden. Dies funktioniert natürlich problemlos mit jeder Sprache.)
 ```
 Die für dieses Projekt verwendete Dataset stammt aus
 „From Group to Individual Labels using Deep Features“,
@@ -27,12 +32,6 @@ Kotzias et. al. KDD 2015, und werden im UCI Machine Learning Repository
 UCI Machine Learning Repository [http://archive.ics.uci.edu/ml ].
 Irvine, CA: University of California, School of Information and Computer Science.
 ```
-
-- Die Daten wurden von mir mittels Google-Übersetzer in der deutschen Sprache übersetzt.
-- Jede Bewertung wird mit 1 oder 0 klassifiziert. (1 = Positiv, 0 = Negativ)
-- Die Bewertung und die Klassifizierung sind mit einem TAB separiert.
-
-(Fühlen sie sich frei eigene Daten zu verwenden. Dies funktioniert natürlich problemlos mit jeder Sprache.)
 
 ## Erneutes erstellen des Models inkl. trainieren
 Wenn Sie das Model im Verzeichnis ".../Models/StimmungAI.zip" umbenennen oder löschen, wird beim nächsten Programmstart das Model neu erstellt und trainiert.
