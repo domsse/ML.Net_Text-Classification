@@ -21,6 +21,9 @@ namespace TextKlassifizierung
 			{
 				_dataPath = dataFilePath;
 
+				if (string.IsNullOrEmpty(_dataPath))
+					throw new Exception("Es wurde in Parametern kein Pfad zur Datei angegeben.");
+
 				mlContext = new MLContext();
 				LoadData();
 
@@ -41,7 +44,7 @@ namespace TextKlassifizierung
 			catch (Exception ex)
 			{
 				Console.WriteLine("Beim starten ist es zu einem Fehler gekommen.");
-				Console.WriteLine(ExceptionHandler.PostException(ex));
+				Console.WriteLine("Fehler: " + ExceptionHandler.PostException(ex));
 				Environment.Exit(1);
 			}
 		}

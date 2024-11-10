@@ -10,6 +10,7 @@
 				Console.WriteLine("Hier ist eine Übersicht der möglichen Befehle.");
 				Console.WriteLine("/evaluate\tBerechnet den Status des Models.");
 				Console.WriteLine($"/training\tTrainiert das Model neu. (Trainingsdaten: " + @"\Data\yelp_labelled.txt)");
+				Console.WriteLine("/close, /exit\t Beendet die Konsolen Anwendung.");
 				Console.WriteLine();
 			}
 
