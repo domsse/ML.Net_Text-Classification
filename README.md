@@ -8,7 +8,7 @@ This Readme was written in German. If you want to read the English Readme click 
 - [Englisch Readme](https://github.com/domsse/ML.Net_Text-Classification/blob/master/README_ENG.md)
 
 ## Was wird benötigt?
-- [![NuGet Status](https://img.shields.io/nuget/v/Microsoft.ML.svg?style=flat)](https://www.nuget.org/packages/Microsoft.ML/)
+- [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) [![NuGet Status](https://img.shields.io/nuget/v/Microsoft.ML.svg?style=flat)](https://www.nuget.org/packages/Microsoft.ML/)
 - [.NET Core 8](https://www.microsoft.com/net/learn/get-started)
 
 ## Erster Start
